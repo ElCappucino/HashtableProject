@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\HashtableProject\HashtableProject\bin\Debug\HashtableProject.exe.config
+C:\Users\Admin\source\repos\HashtableProject\HashtableProject\bin\Debug\HashtableProject.exe
+C:\Users\Admin\source\repos\HashtableProject\HashtableProject\bin\Debug\HashtableProject.pdb
+C:\Users\Admin\source\repos\HashtableProject\HashtableProject\obj\Debug\HashtableProject.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\HashtableProject\HashtableProject\obj\Debug\HashtableProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\HashtableProject\HashtableProject\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\HashtableProject\HashtableProject\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\HashtableProject\HashtableProject\obj\Debug\HashtableProject_MarkupCompile.cache
+C:\Users\Admin\source\repos\HashtableProject\HashtableProject\obj\Debug\HashtableProject_MarkupCompile.lref
+C:\Users\Admin\source\repos\HashtableProject\HashtableProject\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\HashtableProject\HashtableProject\obj\Debug\HashtableProject.g.resources
+C:\Users\Admin\source\repos\HashtableProject\HashtableProject\obj\Debug\HashtableProject.Properties.Resources.resources
+C:\Users\Admin\source\repos\HashtableProject\HashtableProject\obj\Debug\HashtableProject.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\HashtableProject\HashtableProject\obj\Debug\HashtableProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HashtableProject\HashtableProject\obj\Debug\HashtableProject.exe
+C:\Users\Admin\source\repos\HashtableProject\HashtableProject\obj\Debug\HashtableProject.pdb
